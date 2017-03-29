@@ -1,0 +1,19 @@
+
+{
+    "name": "Login",
+    "description": "simple login/registration w/ MEAN",
+    "main": "server.js",
+    "author": [
+        "Elgin Tucker <ewtuckerjr@gmail.com>"
+    ],
+    "license": "ISC",
+    "moduleType": [],
+    "homepage": "",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
